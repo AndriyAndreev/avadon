@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\motujib0k\documents\visual studio 2012\projects\avadon\avadon\main.cpp(25): warning C4305: аргумент: усечение из "double" к "GLfloat"
+c:\users\motujib0k\documents\visual studio 2012\projects\avadon\avadon\main.cpp(27): warning C4305: аргумент: усечение из "double" к "GLfloat"
+c:\users\motujib0k\documents\visual studio 2012\projects\avadon\avadon\main.cpp(28): warning C4305: аргумент: усечение из "double" к "GLfloat"
+c:\users\motujib0k\documents\visual studio 2012\projects\avadon\avadon\main.cpp(29): warning C4305: аргумент: усечение из "double" к "GLfloat"
+c:\users\motujib0k\documents\visual studio 2012\projects\avadon\avadon\main.cpp(30): warning C4305: аргумент: усечение из "double" к "GLfloat"
+c:\users\motujib0k\documents\visual studio 2012\projects\avadon\avadon\main.cpp(45): warning C4305: аргумент: усечение из "double" к "GLclampf"
+  AvadoN.vcxproj -> C:\Users\MoTuJIb0k\Documents\Visual Studio 2012\Projects\AvadoN\Debug\AvadoN.exe
